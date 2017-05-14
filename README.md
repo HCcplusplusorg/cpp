@@ -27,3 +27,7 @@ string.c_str()
 - [a14](https://zerojudge.tw/ShowProblem?problemid=a149)
 - [a065](https://zerojudge.tw/ShowProblem?problemid=a065)
 - [a104](https://zerojudge.tw/ShowProblem?problemid=a104)
+
+## 2017/05/14 09:00 - 11:00
+
+### Github & git
