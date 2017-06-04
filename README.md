@@ -102,3 +102,11 @@ git pull
 練習使用函數、函數裡呼叫函數、函數組合寫法，增加程式可讀性(readability)
 ### 演算法入門
 瀏覽各種排序法，概覽時間複雜度，選擇排序法、插入排序法、冒泡排序法等等
+
+### Homework
+- [a059](https://zerojudge.tw/ShowProblem?problemid=a059)
+- [a044](https://zerojudge.tw/ShowProblem?problemid=a044)
+- [a229](https://zerojudge.tw/ShowProblem?problemid=a229)
+
+
+## 2017/05/24 09:00 - 11:00
